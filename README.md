@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chimuagbawe
 - 👀 I’m interested in reading codes of other professionals
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
